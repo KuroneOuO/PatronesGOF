@@ -1,0 +1,30 @@
+KEVIN ANDRES ROMERO GONZALEZ 
+DAVID SANTIAGO HERNANDEZ MORENO
+FELIPE HUERTAS
+TECNOLOGIA EN DESSARROLLO DE SOFTWARE 
+TEMA: ¿QUE SON LOS PATRONES GOF EN EL DESARROLLO DE SOFTWARE?
+UNIVERSIADAD UNIAGUSTINIANA 
+
+En el desarrollo de software, los patrones GOF o (Gang of four) son un conjunto de patrones de diseño que fueron propuestos por Erich Gamma, Richard Helm, y Ralph Johnson y John Vlissides. Estos patrones se han convertido en un estándar en la industria del desarrollo de software y ofrecen soluciones probadas a problemas comunes en el diseño de software.
+
+Los patrones GOF se dividen en tres diferentes categorías principales: 
+
+1.	Patrones de creación: Estos patrones se enfocan en crear objetos de manera flexible y reutilizable. Algunos ejemplos de estos patrones de creación son:
+El patrón sólido, El patrón de método y fábrica y El patrón de fábrica abstracto.
+
+2.	Patrones de estructura: Estos patrones se ocupan de la composición de clases y objetos para formar estructuras más grandes y flexibles. Ejemplos de patrones de estructura incluyen el patrón adapter, el patrón composite y el patrón proxy.
+
+3.	Patrones de comportamiento: Estos patrones se enfocan en la interacción entre objetos y la distribución de responsabilidades. Algunos patrones de comportamiento conocidos son: El patrón observer, El patrón strategy y el patrón Template Method.
+
+
+4.	Patrones de responsabilidad: Estos se centran en la asignación de responsabilidades entre objetos y clases. El patrón Chain of Responsibility, ya que permite múltiples objetos tengan la oportunidad de manejar una solicitud, mientas que el patrón command encapsula una solicitud como un objeto, permitiendo la parametrización y ejecución de comandos de manera flexible.
+
+5.	Patrones de optimización: Estos patrones se ocupan de mejorar el rendimiento y la eficiencia del software. El patrón Flyweight, por ejemplo: se utiliza para reducir la duplicación de datos en aplicaciones que manejan grandes cantidades de objetos similares.
+
+
+6.	Patrones de concurrencia: Se enfocan en el manejo de la concurrencia y la sincronización en entornos multi-hilo. El patrón Singleton puede tener implicaciones en concurrencia, y existen otros patrones un poco más específicos  como el patrón producer-consumer y el patrón Read-Write lock 
+
+
+Cada patrón GOF proporciona una solución generalmente aceptada para un problema específico en el   desarrollo de software. Estos patrones se basan en principios de programación orientada a objetos y promueven la reutilización, la flexibilidad y mantenibilidad del código.
+
+Tenemos que tener en cuenta que los patrones GOF no son (“recetas rígidas”) por así decirlo si no pautas generales, que deben adaptarse y aplicarse según las necesidades específicas de cada proyecto. Además, existen muchos otros patrones de diseño además de los patrones GOF ya que cada uno cuenta con su propia utilidad y contexto de aplicación.  
